@@ -5,21 +5,21 @@ Attraverso ***un design system personalizzato***, un’estetica coerente e conte
 
 L’intero sito è costruito con HTML5 e CSS3 avanzato, includendo:
 
-***Punto *un framework visivo personalizzato con pergamene, texture, rune e simboli nordici*
+- *un framework visivo personalizzato con pergamene, texture, rune e simboli nordici*
 
-***Punto *una navbar dinamica con clip‑path irregolare e dettagli dorati*
+- *una navbar dinamica con clip‑path irregolare e dettagli dorati*
 
-***Punto *un sistema di card sparse per raccontare storia, mitologia, arte e personaggi*
+- *un sistema di card sparse per raccontare storia, mitologia, arte e personaggi*
 
-***Punto *una galleria responsive con effetti di luce e pergamena bruciata*
+- *una galleria responsive con effetti di luce e pergamena bruciata*
 
-***Punto *una griglia completa dell’Elder Futhark, con significato di ogni runa*
+- *una griglia completa dell’Elder Futhark, con significato di ogni runa*
 
-***Punto *un background animato con Vegvísir e glow pulsante*
+- *un background animato con Vegvísir e glow pulsante*
 
-***Punto *una scrollbar personalizzata con texture runica*
+- *una scrollbar personalizzata con texture runica*
 
-***Punto *un footer modulare con navigazione e sezioni tematiche*
+- *un footer modulare con navigazione e sezioni tematiche*
 
 Ogni pagina è progettata come un frammento di saga:
 
@@ -27,14 +27,14 @@ Ogni pagina è progettata come un frammento di saga:
 
 Il progetto rappresenta un esempio di:
 
-***Punto *design tematico avanzato*
+- *design tematico avanzato*
 
-***Punto *coerenza visiva cross‑page*
+-*coerenza visiva cross‑page*
 
-***Punto *uso creativo del CSS*
+- *uso creativo del CSS*
 
-***Punto *struttura modulare e scalabile*
+- *struttura modulare e scalabile*
 
-***Punto *attenzione al dettaglio e alla resa estetica*
+- *attenzione al dettaglio e alla resa estetica*
 
 Un lavoro pensato per mostrare competenze di front‑end design, direzione creativa e costruzione di esperienze narrative sul web.
