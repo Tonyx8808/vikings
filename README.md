@@ -29,7 +29,7 @@ Il progetto rappresenta un esempio di:
 
 - *design tematico avanzato*
 
--*coerenza visiva cross‑page*
+- *coerenza visiva cross‑page*
 
 - *uso creativo del CSS*
 
